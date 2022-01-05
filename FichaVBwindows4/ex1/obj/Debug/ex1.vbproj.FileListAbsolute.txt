@@ -1,0 +1,11 @@
+H:\T.P\FichaVBwindows4\ex1\bin\Debug\ex1.exe.config
+H:\T.P\FichaVBwindows4\ex1\bin\Debug\ex1.exe
+H:\T.P\FichaVBwindows4\ex1\bin\Debug\ex1.pdb
+H:\T.P\FichaVBwindows4\ex1\bin\Debug\ex1.xml
+H:\T.P\FichaVBwindows4\ex1\obj\Debug\ex1.vbprojResolveAssemblyReference.cache
+H:\T.P\FichaVBwindows4\ex1\obj\Debug\ex1.Form1.resources
+H:\T.P\FichaVBwindows4\ex1\obj\Debug\ex1.Resources.resources
+H:\T.P\FichaVBwindows4\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+H:\T.P\FichaVBwindows4\ex1\obj\Debug\ex1.exe
+H:\T.P\FichaVBwindows4\ex1\obj\Debug\ex1.xml
+H:\T.P\FichaVBwindows4\ex1\obj\Debug\ex1.pdb

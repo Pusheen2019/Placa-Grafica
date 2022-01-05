@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ex1
+</name>
+</assembly>
+<members>
+<member name="T:ex1.My.Resources.Resources">
+<summary>
+  Uma classe de recursos com tipo seguro para procurar cadeias localizadas, etc.
+</summary>
+</member>
+<member name="P:ex1.My.Resources.Resources.ResourceManager">
+<summary>
+  Devolve a instância ResourceManager em cache utilizada para esta classe.
+</summary>
+</member>
+<member name="P:ex1.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread actual para todas as
+  pesquisas de recursos que utilizem esta classe de recurso com tipo seguro.
+</summary>
+</member>
+<member name="P:ex1.My.Resources.Resources.Terminator_2">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ex1.My.Resources.Resources.Terminator_3_P5G965A">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
